@@ -5,24 +5,10 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "first",
-            "cwd": "first",
-            "request": "launch",
-            "type": "dart"
-        },
-        {
-            "name": "first (profile mode)",
-            "cwd": "first",
-            "request": "launch",
+            "name": "Dart",
             "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "first (release mode)",
-            "cwd": "first",
             "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
+            "program": "quiz_app/lib/main.dart"
         }
     ]
 }
