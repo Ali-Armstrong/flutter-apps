@@ -8,7 +8,7 @@
             "name": "Dart",
             "type": "dart",
             "request": "launch",
-            "program": "quiz_app/lib/main.dart"
+            "program": "expenses_app/lib/main.dart"
         }
     ]
 }
